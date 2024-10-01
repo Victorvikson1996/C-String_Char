@@ -1,0 +1,14 @@
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.AssemblyInfoInputs.cache
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.AssemblyInfo.cs
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.csproj.CoreCompileInputs.cache
+/Users/chukwuebuka/Native/C#program/bin/Debug/net8.0/C#program
+/Users/chukwuebuka/Native/C#program/bin/Debug/net8.0/C#program.deps.json
+/Users/chukwuebuka/Native/C#program/bin/Debug/net8.0/C#program.runtimeconfig.json
+/Users/chukwuebuka/Native/C#program/bin/Debug/net8.0/C#program.dll
+/Users/chukwuebuka/Native/C#program/bin/Debug/net8.0/C#program.pdb
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.dll
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/refint/C#program.dll
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.pdb
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/C#program.genruntimeconfig.cache
+/Users/chukwuebuka/Native/C#program/obj/Debug/net8.0/ref/C#program.dll
